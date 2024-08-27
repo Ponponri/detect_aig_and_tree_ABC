@@ -9,19 +9,19 @@
 - Makefile
 - src/base/main/mainInit.c
 
-# Environment
+## Environment
 - Ubuntu 
 - gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 - g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 
-# Compile project
+## Compile project
 ```
 cd abc
 make
 ```
 
-# Results
-## Part 1
+## Results
+### Part 1
 ```
 cd abc
 ./abc
@@ -33,7 +33,7 @@ example:
 
 ![](result_1.png)
 
-## Part 2
+### Part 2
 ```
 cd abc
 ./abc
